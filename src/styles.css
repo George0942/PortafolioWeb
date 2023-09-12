@@ -46,11 +46,13 @@ section img.background {
 }
 
 h1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Montserrat", serif;
   font-size: 7rem;
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
+  margin-left: 2rem;
+  text-align: right;
 }
 
 h2 {
