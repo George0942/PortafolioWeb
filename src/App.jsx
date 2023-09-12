@@ -30,10 +30,9 @@ const siteProps = {
   gitHub: "George0942",
   instagram: "george_es_",
   linkedIn: "jorge-alberto-estrada-martínez-a6b720277",
-
 };
 
-const primaryColor = "#4E567E";
+const primaryColor = "#0d2c4b";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {
