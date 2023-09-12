@@ -52,14 +52,16 @@ const About = () => {
       <img className="background" src={image} alt={imageAltText} />
       <div
         style={{
-          backgroundColor: "white",
+          backgroundColor: "white", //Controla el cuadro de About Myself
           width: "50%",
           padding: "4rem",
           margin: "3rem auto",
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>
+          <strong>About Myself</strong>
+        </h2>
         <p className="large">{description}</p>
         <hr />
         <ul
